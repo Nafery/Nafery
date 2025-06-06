@@ -1,4 +1,4 @@
-# Hola, Soy Nafery
+# 👨‍💻 Hola, Soy Nafery 👋🏻
 
 ### Sobre mí
 Soy un estudiante de tercer año de **Ingeniería en Informática** apasionado por la tecnología y el aprendizaje continuo. Me especializo en **bases de datos**, pero también estoy explorando el mundo del desarrollo **fullstack** y **Machine Learning**.
