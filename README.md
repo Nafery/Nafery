@@ -5,7 +5,7 @@ Soy un estudiante de tercer año de **Ingeniería en Informática** apasionado p
 
 ---
 
-### **Tecnologías y habilidades**
+### 💻 **Tecnologías y habilidades**
 - **Bases de datos:** Oracle, MySQL.
 - **Backend:** Python, Flask, Django, Integración de APIs externas (como Webpay).
 - **Frontend:** React (aprendiendo), Vite, Tailwind CSS.
@@ -15,16 +15,16 @@ Soy un estudiante de tercer año de **Ingeniería en Informática** apasionado p
 
 ---
 
-### **Proyectos destacados**
-#### **[Análisis predictivo de datos](#)**
+### 🚀 **Proyectos destacados**
+#### 🔗 **[Análisis predictivo de datos](#)**
 - Desarrollo en **Google Colaboratory** utilizando **Python**, **sklearn** y **pandas**.
 - Análisis de datos para predicciones utilizando modelos de aprendizaje supervisado y no supervisado.
 
-#### **[API de pagos con Webpay](#)**
+#### 🔗 **[API de pagos con Webpay](#)**
 - Backend desarrollado en **Flask**
 - Integración con la API de Webpay para sistemas de pago seguros.
 
-#### **[Gestión de bases de datos](#)**
+#### 🔗 **[Gestión de bases de datos](#)**
 - Diseño y optimización de sistemas relacionales utilizando **Oracle** y **MySQL**.
 - Creación de consultas avanzadas para manejo eficiente de datos.
 
@@ -37,12 +37,12 @@ Soy un estudiante de tercer año de **Ingeniería en Informática** apasionado p
 
 ---
 
-### **Contáctame**
+### 📫 **Contáctame**
 - **Portafolio (próximamente)**
 - [LinkedIn](https://www.linkedin.com/in/ignacio-fern).
 - **Email:** [ignacio.frivera1@gmail.com]
 
-### **Mis objetivos**
+### 🎯 **Mis objetivos**
 - Convertirme en un desarrollador **Fullstack**.
 - Participar en proyectos innovadores de **Machine Learning**.
 - Seguir aprendiendo y especializandome.
