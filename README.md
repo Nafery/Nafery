@@ -20,7 +20,7 @@ Soy un estudiante de tercer año de **Ingeniería en Informática** apasionado p
 - Desarrollo en **Google Colaboratory** utilizando **Python**, **sklearn** y **pandas**.
 - Análisis de datos para predicciones utilizando modelos de aprendizaje supervisado y no supervisado.
 
-#### [apiferramas](https://github.com/Nafery/apiferramas)
+#### 🔗 [apiferramas](https://github.com/Nafery/apiferramas)
 API desarrollada en Python que proporciona una interfaz robusta para gestionar recursos y operaciones de Ferramas. Está diseñada para integrarse fácilmente con sistemas externos y cuenta con las siguientes características destacadas:
 
 - **Integraciones principales**:
@@ -33,7 +33,7 @@ API desarrollada en Python que proporciona una interfaz robusta para gestionar r
 
 [Ver repositorio](https://github.com/Nafery/apiferramas)
 
-#### [ferramas-web](https://github.com/Nafery/ferramas-web)
+#### 🔗 [ferramas-web](https://github.com/Nafery/ferramas-web)
 Frontend moderno desarrollado en **JavaScript** que sirve como interfaz principal para la gestión y visualización de productos de Ferramas. Este proyecto se integra con la API principal y está enfocado en proporcionar una experiencia de usuario intuitiva y eficiente.
 
 - **Tecnologías principales:** JavaScript, HTML, CSS.
