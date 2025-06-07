@@ -20,9 +20,27 @@ Soy un estudiante de tercer año de **Ingeniería en Informática** apasionado p
 - Desarrollo en **Google Colaboratory** utilizando **Python**, **sklearn** y **pandas**.
 - Análisis de datos para predicciones utilizando modelos de aprendizaje supervisado y no supervisado.
 
-#### 🔗 **[API de pagos con Webpay](#)**
-- Backend desarrollado en **Flask**
-- Integración con la API de Webpay para sistemas de pago seguros.
+#### [apiferramas](https://github.com/Nafery/apiferramas)
+API desarrollada en Python que proporciona una interfaz robusta para gestionar recursos y operaciones de Ferramas. Está diseñada para integrarse fácilmente con sistemas externos y cuenta con las siguientes características destacadas:
+
+- **Integraciones principales**:
+  - **Webpay**: Procesamiento de pagos en línea totalmente integrado.
+  - **Banco Central de Chile**: Consulta de tasas de cambio oficiales y otros datos económicos en tiempo real.
+- **Conexión a base de datos**: Permite obtener productos directamente desde la base de datos y entregarlos al frontend.
+- **Gestión de usuarios**: Soporta autenticación de usuarios para inicio de sesión seguro.
+- **Documentación clara**: Incluye documentación interactiva para facilitar la implementación e integración.
+- **Endpoints RESTful**: Ofrece endpoints organizados y seguros para operaciones CRUD.
+
+[Ver repositorio](https://github.com/Nafery/apiferramas)
+
+#### [ferramas-web](https://github.com/Nafery/ferramas-web)
+Frontend moderno desarrollado en **JavaScript** que sirve como interfaz principal para la gestión y visualización de productos de Ferramas. Este proyecto se integra con la API principal y está enfocado en proporcionar una experiencia de usuario intuitiva y eficiente.
+
+- **Tecnologías principales:** JavaScript, HTML, CSS.
+- **Integración:** Consume los endpoints de [apiferramas](https://github.com/Nafery/apiferramas) para mostrar productos y funcionalidades dinámicas.
+- **Objetivo:** Facilitar la administración y visualización de productos, con una interfaz amigable y adaptable a diferentes dispositivos.
+
+[Ver repositorio](https://github.com/Nafery/ferramas-web)
 
 #### 🔗 **[Gestión de bases de datos](#)**
 - Diseño y optimización de sistemas relacionales utilizando **Oracle** y **MySQL**.
