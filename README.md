@@ -57,7 +57,7 @@ Frontend moderno desarrollado en **JavaScript** que sirve como interfaz principa
 
 ### 📫 **Contáctame**
 - **Portafolio (próximamente)**
-- [LinkedIn](https://www.linkedin.com/in/ignacio-fern).
+- [LinkedIn](https://www.linkedin.com/in/ignacio-fern%C3%A1ndez-rivera-00745b293/).
 - **Email:** [ignacio.frivera1@gmail.com]
 
 ### 🎯 **Mis objetivos**
