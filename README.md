@@ -18,8 +18,8 @@ Soy un estudiante de tercer año de **Ingeniería en Informática** apasionado p
 ### 🚀 **Proyectos destacados**
 
 ### [webmascota](https://github.com/Nafery/webmascota)
-WebMascota es una aplicación web desarrollada en React y Tailwind CSS para la gestión de información de mascotas, 
-permitiendo registro, inicio de sesión seguro y visualización de datos conectados a una API propia.
+WebMascota es una aplicación web desarrollada en React y Tailwind CSS para la reserva de consultas veterinarias para mascotas,
+así como también registro de usuarios para poder acceder a la información de sus mascotas e historial de consultas de la mascota.
 
 - **Tecnologías:** React, Tailwind CSS, Vite, Axios, Flask, MySQL
 - **Funcionalidades clave:** Autenticación de usuarios, gestión de mascotas, interfaz adaptable y conexión a API.
