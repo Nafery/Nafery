@@ -16,6 +16,23 @@ Soy un estudiante de tercer año de **Ingeniería en Informática** apasionado p
 ---
 
 ### 🚀 **Proyectos destacados**
+
+### [webmascota](https://github.com/Nafery/webmascota)
+WebMascota es una aplicación web desarrollada en React y Tailwind CSS para la gestión de información de mascotas, 
+permitiendo registro, inicio de sesión seguro y visualización de datos conectados a una API propia.
+
+- **Tecnologías:** React, Tailwind CSS, Vite, Axios, Flask, MySQL
+- **Funcionalidades clave:** Autenticación de usuarios, gestión de mascotas, interfaz adaptable y conexión a API.
+- [Ver repositorio webmascota](https://github.com/Nafery/webmascota)
+
+### [apimascota](https://github.com/Nafery/apimascota)
+API RESTful para gestión de consultas veterinarias, usuarios, inicio de sesión y mascotas de cada usuario.
+
+- **Tecnologías:** Python 3, Flask, MySQL
+- **Arquitectura en capas:** Separación de rutas, modelos y servicios para mejor mantenimiento.
+- **Endpoints principales:** Manejo de usuarios, consultas y mascotas.
+- [Ver documentación y estructura completa](https://github.com/Nafery/apimascota)
+
 #### 🔗 **[Análisis predictivo de datos](#)**
 - Desarrollo en **Google Colaboratory** utilizando **Python**, **sklearn** y **pandas**.
 - Análisis de datos para predicciones utilizando modelos de aprendizaje supervisado y no supervisado.
