@@ -1,85 +1,67 @@
 # 👨‍💻 Hola, Soy Nafery 👋🏻
 
 ### Sobre mí
-Soy un estudiante de tercer año de **Ingeniería en Informática** apasionado por la tecnología y el aprendizaje continuo. Me especializo en **bases de datos**, pero también estoy explorando el mundo del desarrollo **fullstack** y **Machine Learning**.
+Estudiante de Ingeniería en Informática con formación previa en **Pedagogía en Matemáticas**, lo que me otorga una base sólida en lógica y estadística aplicada a la **Ciencia de Datos**.
+
+Mi perfil es híbrido: combino la capacidad técnica para construir sistemas (**Fullstack/Backend**) con la mentalidad analítica para extraer valor de ellos (**Data Science/BI**). Me apasiona desarrollar soluciones que integren arquitecturas de datos eficientes y modelos predictivos.
 
 ---
 
 ### 💻 **Tecnologías y habilidades**
-- **Bases de datos:** Oracle, MySQL.
-- **Backend:** Python, Flask, Django, Integración de APIs externas (como Webpay).
-- **Frontend:** React (aprendiendo), Vite, Tailwind CSS.
-- **Fullstack en progreso:** React, Vite, Axios, Tailwind, Node.js, MySQL.
-- **Machine Learning:** Python, sklearn, pandas, análisis predictivo de datos.
-- **Herramientas:** Google Colaboratory, GitHub.
+- **Data Science & BI:** Python (Pandas, NumPy, Scikit-learn), Power BI, Análisis Predictivo.
+- **Bases de Datos:** Oracle, MySQL, Diseño y optimización de sistemas relacionales.
+- **Backend:** Python (Flask, Django), Node.js, Integración de APIs (Webpay, Banco Central).
+- **Frontend:** React, Vite, Tailwind CSS, Axios, JavaScript (ES6+).
+- **Herramientas:** Git/GitHub, Google Colab.
 
 ---
 
 ### 🚀 **Proyectos destacados**
 
-### [webmascota](https://github.com/Nafery/webmascota)
-WebMascota es una aplicación web desarrollada en React y Tailwind CSS para la reserva de consultas veterinarias para mascotas,
-así como también registro de usuarios para poder acceder a la información de sus mascotas e historial de consultas de la mascota.
-
-- **Tecnologías:** React, Tailwind CSS, Vite, Axios, Flask, MySQL
-- **Funcionalidades clave:** Autenticación de usuarios, gestión de mascotas, interfaz adaptable y conexión a API.
-- [Ver repositorio webmascota](https://github.com/Nafery/webmascota)
-
-### [apimascota](https://github.com/Nafery/apimascota)
-API RESTful para gestión de consultas veterinarias, usuarios, inicio de sesión y mascotas de cada usuario.
-
-- **Tecnologías:** Python 3, Flask, MySQL
-- **Arquitectura en capas:** Separación de rutas, modelos y servicios para mejor mantenimiento.
-- **Endpoints principales:** Manejo de usuarios, consultas y mascotas.
-- [Ver documentación y estructura completa](https://github.com/Nafery/apimascota)
-
-#### 🔗 **[Análisis predictivo de datos](#)**
-- Desarrollo en **Google Colaboratory** utilizando **Python**, **sklearn** y **pandas**.
-- Análisis de datos para predicciones utilizando modelos de aprendizaje supervisado y no supervisado.
+#### 📊 [Finantial Data Analysis](https://github.com/Nafery/Finantial-Data-Analysis)
+**Análisis Bancario & Predicción de Riesgo.** Proyecto integral de ciencia de datos simulando un entorno financiero real.
+- **Técnicas:** Clustering (K-Means), Regresión (Ridge) y Clasificación (SVM/Random Forest).
+- **Impacto:** Identificación de 5 arquetipos de clientes y predicción de digitalización.
+- [Ver repositorio](https://github.com/Nafery/Finantial-Data-Analysis)
 
 #### 🔗 [apiferramas](https://github.com/Nafery/apiferramas)
-API desarrollada en Python que proporciona una interfaz robusta para gestionar recursos y operaciones de Ferramas. Está diseñada para integrarse fácilmente con sistemas externos y cuenta con las siguientes características destacadas:
-
-- **Integraciones principales**:
-  - **Webpay**: Procesamiento de pagos en línea totalmente integrado.
-  - **Banco Central de Chile**: Consulta de tasas de cambio oficiales y otros datos económicos en tiempo real.
-- **Conexión a base de datos**: Permite obtener productos directamente desde la base de datos y entregarlos al frontend.
-- **Gestión de usuarios**: Soporta autenticación de usuarios para inicio de sesión seguro.
-- **Documentación clara**: Incluye documentación interactiva para facilitar la implementación e integración.
-- **Endpoints RESTful**: Ofrece endpoints organizados y seguros para operaciones CRUD.
-
-[Ver repositorio](https://github.com/Nafery/apiferramas)
+API RESTful robusta en Python para la gestión de recursos de Ferramas.
+- **Integraciones:** Webpay (pagos) y API Banco Central (indicadores).
+- **Backend:** Flask, MySQL, Endpoints seguros.
+- [Ver repositorio](https://github.com/Nafery/apiferramas)
 
 #### 🔗 [ferramas-web](https://github.com/Nafery/ferramas-web)
-Frontend moderno desarrollado en **JavaScript** que sirve como interfaz principal para la gestión y visualización de productos de Ferramas. Este proyecto se integra con la API principal y está enfocado en proporcionar una experiencia de usuario intuitiva y eficiente.
+Frontend moderno para la gestión y visualización de productos, consumiendo la API de Ferramas.
+- **Stack:** JavaScript, HTML, CSS.
+- **Funcionalidad:** Interfaz dinámica integrada con endpoints RESTful.
+- [Ver repositorio](https://github.com/Nafery/ferramas-web)
 
-- **Tecnologías principales:** JavaScript, HTML, CSS.
-- **Integración:** Consume los endpoints de [apiferramas](https://github.com/Nafery/apiferramas) para mostrar productos y funcionalidades dinámicas.
-- **Objetivo:** Facilitar la administración y visualización de productos, con una interfaz amigable y adaptable a diferentes dispositivos.
+#### 🔗 [webmascota](https://github.com/Nafery/webmascota)
+Aplicación web Fullstack para reserva de horas y gestión clínica veterinaria.
+- **Stack:** React, Tailwind CSS, Vite, Axios, Flask, MySQL.
+- **Funcionalidad:** Autenticación de usuarios y gestión de historial médico.
+- [Ver repositorio](https://github.com/Nafery/webmascota)
 
-[Ver repositorio](https://github.com/Nafery/ferramas-web)
-
-#### 🔗 **[Gestión de bases de datos](#)**
-- Diseño y optimización de sistemas relacionales utilizando **Oracle** y **MySQL**.
-- Creación de consultas avanzadas para manejo eficiente de datos.
-
----
-
-### **Actualmente estoy aprendiendo**
-- Desarrollo **Fullstack** con el stack: React, Vite, Axios, TailwindCSS, Node.js, MySQL.
-- Profundizando en **Machine Learning** y análisis predictivo de datos.
-- Mejorando mis habilidades en **React** para el desarrollo frontend.
+#### 🔗 [apimascota](https://github.com/Nafery/apimascota)
+API RESTful con arquitectura en capas para el ecosistema veterinario.
+- **Arquitectura:** Separación de rutas, modelos y servicios.
+- **Stack:** Python 3, Flask, MySQL.
+- [Ver documentación](https://github.com/Nafery/apimascota)
 
 ---
 
-### 📫 **Contáctame**
-- **Portafolio (próximamente)**
-- [LinkedIn](https://www.linkedin.com/in/ignacio-fern%C3%A1ndez-rivera-00745b293/).
-- **Email:** [ignacio.frivera1@gmail.com]
+### **Actualmente aprendiendo**
+- Profundizando en **Machine Learning** avanzado y modelos no supervisados.
+- Desarrollo **Fullstack** perfeccionando el stack: React, Vite, Node.js.
+- Arquitecturas de **Business Intelligence**.
 
 ### 🎯 **Mis objetivos**
-- Convertirme en un desarrollador **Fullstack**.
+- Convertirme en un desarrollador híbrido (**Fullstack + Data**).
 - Participar en proyectos innovadores de **Machine Learning**.
-- Seguir aprendiendo y especializandome.
+- Seguir especializándome en arquitecturas de datos.
 
 ---
+
+### 📫 **Contacto**
+- [LinkedIn](https://www.linkedin.com/in/ignacio-fern%C3%A1ndez-rivera-00745b293/)
+- **Email:** ignacio.frivera1@gmail.com
