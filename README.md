@@ -7,7 +7,7 @@ Mi perfil es híbrido: combino la capacidad técnica para construir sistemas (**
 
 ---
 
-### 💻 **Tecnologías y habilidades**
+### 💻 **Tecnologías que he utilizado y habilidades**
 - **Data Science & BI:** Python (Pandas, NumPy, Scikit-learn), Power BI, Análisis Predictivo.
 - **Bases de Datos:** Oracle, MySQL, Diseño y optimización de sistemas relacionales.
 - **Backend:** Python (Flask, Django), Node.js, Integración de APIs (Webpay, Banco Central).
