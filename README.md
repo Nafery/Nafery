@@ -27,8 +27,9 @@ Actualmente en búsqueda activa de mi **Práctica Profesional** en Análisis de 
 - [Ver repositorio](https://github.com/Nafery/gcp-bigdata-batch-and-streaming)
 
 #### 🏥 [Predictive Analytics for Hospital ER Visits](https://github.com/Nafery/informe-mineria-datos-urgencias)
-**Minería de Datos en Salud Pública (Minsal Chile).** Sistema de alerta temprana a 96 horas para saturación respiratoria en hospitales de la Zona Sur.
-- **Técnicas:** CRISP-DM, Feature Lagging de 4 días en temperatura, DBSCAN ($0.9622$ Silhouette), XGBoost vs Random Forest (MAE 1.38).
+**Minería de Datos & Integración Multifuente en Salud Pública.** Construcción de dataset unificado desde cero (+800k registros) cruzando datos de atenciones de urgencia por región (Minsal/ISP), temperaturas diarias y precipitaciones extremas.
+- **Data Engineering:** Ingesta y cruce de 3 fuentes independientes, limpieza, desduplicación y llaves compuestas sintéticas (`Id_registro`).
+- **Técnicas ML:** CRISP-DM, Feature Lagging térmico a 4 días, DBSCAN ($0.9622$ Silhouette Score), XGBoost vs Random Forest (MAE $1.38$).
 - [Ver repositorio](https://github.com/Nafery/informe-mineria-datos-urgencias)
 
 #### 🤖 [Custom Seq2Seq Transformer Encoder-Decoder](https://github.com/Nafery/transformer-nlp-dailydialog)
