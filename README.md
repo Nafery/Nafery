@@ -20,6 +20,12 @@ Actualmente en búsqueda activa de mi **Práctica Profesional** en Análisis de 
 
 ### 🚀 **Proyectos Destacados de Datos & AI**
 
+#### 📊 [Business Intelligence & Data Warehouse - Kent Foods](https://github.com/Nafery/Solucion-de-BI-para-proyecto-Kent-Foods)
+**Solución de BI & Modelo Dimensional.** Consolidación de datos dispersos de ventas y operaciones logísticas para la toma de decisiones gerenciales.
+- **Data Warehouse (Kimball):** Diseño de modelo dimensional en SQL con tablas de Hechos y Dimensiones (Clientes, Productos, Tiempos, Transportistas).
+- **Power BI & Analytics:** Dashboard ejecutivo interactivo ($1.35M facturación), geolocalización de despachos y métricas de desempeño por vendedor y categoría.
+- [Ver repositorio](https://github.com/Nafery/Solucion-de-BI-para-proyecto-Kent-Foods)
+
 #### ☁️ [GCP Big Data Architectures: Batch vs. Streaming](https://github.com/Nafery/gcp-bigdata-batch-and-streaming)
 **Pipelines de Big Data en la Nube.** Comparativa técnica en GCP evaluando las 5 V's de Big Data.
 - **Batch (+46M registros):** Procesamiento de viajes NYC Citi Bike con BigQuery, Cloud Dataprep y Looker Studio.
